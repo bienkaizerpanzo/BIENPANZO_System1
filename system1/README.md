@@ -8,4 +8,4 @@ It will later include:
 - form handling
 - connection to System 2 API for dropdown data
 
-This is only the project skeleton for now.
+
