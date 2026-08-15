@@ -2,7 +2,7 @@
 
 This folder contains the main CRUD application.
 
-It will later include:
+It will  include:
 - pages for listing, creating, editing, and deleting pets
 - database access logic
 - form handling
